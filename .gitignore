@@ -1,0 +1,7 @@
+/gulpfile.js
+/.idea/
+/node_modules/
+/src/
+/index.html
+/package.json
+/package-lock.json
